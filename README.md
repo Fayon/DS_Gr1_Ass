@@ -4,13 +4,14 @@ Assignment for Data Structure and File Management 2
 This assignment was created by a group of students Majoring in OInformation Technology at the BSc level
 
 Authors are:
-Fayon McCalla
-Othneil Kidd
-Adrian McNeil
-Romeo McDonald
-Roshae
-Kelly-Ann Thompson
-Charlton Kerr
+Fayon McCalla,
+Othneil Kidd,
+Adrian McNeil,
+Romeo McDonald,
+Roshae Nuefville,
+Kelly-Ann Thompson,
+Charlton Kerr,
+Jerdain Senior
 
 The assignment is being presented to Natalie Rose - Lecturer
 
